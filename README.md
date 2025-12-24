@@ -20,7 +20,6 @@ dashboard_data.csv: Final processed data used in the dashboard.
 
 
 Tech Stack & Workflow
-
 Step 1: Data Cleaning (Python)
 Library: Pandas
 Process: Loaded raw CSV data containing 1,470 employee records. Performed whitespace removal and column header sanitization to ensure data consistency before database ingestion.
@@ -42,15 +41,17 @@ Interactivity: Added Slicers for Job Role to allow dynamic filtering of the enti
 
 
 
+![image alt](https://github.com/nitinsinha29/HR-Analytics/blob/522b76745c8db144da9608f615a3208c91ee2cd0/Dashboard.jpg)
+
+
+
 Key Business Insights
 Based on the analysis of the dataset, the following trends were identified:
-
 1.High Financial Risk: The organization is losing experienced personnel. The average monthly salary of employees leaving is approximately $4,800, indicating that attrition is not limited to entry-level roles.
 2. Role-Specific Churn: "Sales Representatives" have the highest turnover count, but "Research Directors" represent a higher cost-per-departure.
 3. The Mid-Career Crisis: The majority of leavers belong to the "Mid-Level" (30-50 years old) age group, suggesting a potential lack of growth opportunities for experienced staff.
 
 How to Run This Project
-
 1. Clone the Repository: Download the project files to your local machine.
 2. View the Database: Open the "HR_Database.db" file using DB Browser for SQLite to inspect the Tables and Views.
 3. Run the Dashboard: Open the "HR_Retention_Dashboard.pbix" file in Power BI Desktop. (Note: If data does not load, go to Transform Data > Data Source Settings and repoint the CSV source to your local path.)
