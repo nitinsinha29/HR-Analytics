@@ -1,0 +1,1471 @@
+Department,JobRole,Attrition,MonthlyIncome,Age_Group,Satisfaction_Status
+Sales,Sales Executive,Yes,5993,Mid-Level,Happy
+Research & Development,Research Scientist,No,5130,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,Yes,2090,Mid-Level,Happy
+Research & Development,Research Scientist,No,2909,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3468,Young,Unhappy
+Research & Development,Laboratory Technician,No,3068,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2670,Senior,Unhappy
+Research & Development,Laboratory Technician,No,2693,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,9526,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,5237,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2426,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,4193,Young,Happy
+Research & Development,Research Scientist,No,2911,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2661,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,2028,Young,Happy
+Research & Development,Manufacturing Director,No,9980,Young,Unhappy
+Research & Development,Research Scientist,No,3298,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2935,Young,Happy
+Sales,Manager,No,15427,Senior,Happy
+Research & Development,Research Scientist,No,3944,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,4011,Young,Happy
+Sales,Sales Representative,Yes,3407,Mid-Level,Unhappy
+Research & Development,Research Director,No,11994,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,1232,Young,Happy
+Research & Development,Research Scientist,Yes,2960,Mid-Level,Unhappy
+Research & Development,Manager,No,19094,Senior,Happy
+Research & Development,Research Scientist,Yes,3919,Mid-Level,Unhappy
+Sales,Sales Executive,No,6825,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,10248,Mid-Level,Happy
+Sales,Manager,No,18947,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2496,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,6465,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2206,Mid-Level,Happy
+Sales,Sales Representative,Yes,2086,Mid-Level,Happy
+Research & Development,Research Scientist,Yes,2293,Young,Happy
+Research & Development,Research Scientist,No,2645,Mid-Level,Happy
+Sales,Sales Representative,Yes,2683,Mid-Level,Happy
+Sales,Sales Representative,No,2014,Mid-Level,Happy
+Research & Development,Research Scientist,No,3419,Mid-Level,Unhappy
+Sales,Sales Executive,No,5376,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,1951,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2341,Young,Unhappy
+Research & Development,Laboratory Technician,Yes,2293,Young,Happy
+Sales,Sales Executive,No,8726,Young,Happy
+Research & Development,Laboratory Technician,No,4011,Mid-Level,Happy
+Research & Development,Research Director,Yes,19545,Mid-Level,Happy
+Sales,Sales Executive,No,4568,Mid-Level,Happy
+Research & Development,Research Scientist,No,3022,Mid-Level,Unhappy
+Sales,Sales Executive,No,5772,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2269,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,5381,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,3441,Young,Happy
+Sales,Sales Executive,No,5454,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,9884,Mid-Level,Unhappy
+Sales,Sales Executive,No,4157,Young,Happy
+Research & Development,Research Director,No,13458,Mid-Level,Happy
+Sales,Sales Executive,No,9069,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,4014,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,5915,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,5993,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,6162,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2406,Mid-Level,Happy
+Research & Development,Research Director,No,18740,Mid-Level,Happy
+Sales,Sales Executive,No,7637,Senior,Unhappy
+Research & Development,Healthcare Representative,No,10096,Mid-Level,Happy
+Research & Development,Manager,No,14756,Senior,Happy
+Research & Development,Manufacturing Director,No,6499,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,9724,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2194,Mid-Level,Unhappy
+Research & Development,Research Scientist,Yes,3388,Mid-Level,Happy
+Sales,Sales Executive,No,5473,Senior,Happy
+Research & Development,Research Scientist,No,2703,Young,Unhappy
+Research & Development,Research Scientist,No,2501,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,6220,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,3038,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,4424,Mid-Level,Happy
+Sales,Sales Executive,No,4312,Mid-Level,Unhappy
+Research & Development,Research Director,No,13245,Mid-Level,Unhappy
+Research & Development,Research Director,No,13664,Mid-Level,Happy
+Human Resources,Human Resources,No,5021,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,5126,Mid-Level,Happy
+Research & Development,Research Scientist,No,2859,Mid-Level,Happy
+Sales,Sales Executive,No,10239,Senior,Happy
+Research & Development,Research Scientist,No,5329,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,4325,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,7260,Senior,Happy
+Sales,Sales Representative,No,2322,Young,Unhappy
+Research & Development,Laboratory Technician,No,2075,Senior,Happy
+Research & Development,Healthcare Representative,No,4152,Mid-Level,Happy
+Sales,Sales Executive,Yes,9619,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,13503,Mid-Level,Unhappy
+Sales,Sales Executive,No,5441,Senior,Happy
+Sales,Sales Executive,No,5209,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,10673,Mid-Level,Unhappy
+Sales,Sales Executive,No,5010,Mid-Level,Happy
+Research & Development,Research Director,No,13549,Senior,Happy
+Sales,Sales Executive,No,4999,Young,Happy
+Sales,Sales Executive,No,4221,Young,Happy
+Sales,Sales Executive,No,13872,Senior,Happy
+Research & Development,Laboratory Technician,No,2042,Mid-Level,Unhappy
+Human Resources,Human Resources,Yes,2073,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2956,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,Yes,2926,Young,Happy
+Research & Development,Research Scientist,No,4809,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,5163,Mid-Level,Happy
+Human Resources,Manager,No,18844,Senior,Happy
+Research & Development,Research Director,No,18172,Mid-Level,Unhappy
+Sales,Sales Executive,Yes,5744,Young,Happy
+Research & Development,Research Scientist,No,2889,Young,Happy
+Research & Development,Laboratory Technician,No,2871,Young,Happy
+Research & Development,Healthcare Representative,No,7484,Senior,Unhappy
+Research & Development,Laboratory Technician,Yes,6074,Mid-Level,Happy
+Human Resources,Manager,No,17328,Senior,Happy
+Research & Development,Laboratory Technician,No,2774,Young,Happy
+Research & Development,Research Scientist,No,4505,Mid-Level,Unhappy
+Sales,Sales Executive,No,7428,Mid-Level,Happy
+Research & Development,Manager,No,11631,Mid-Level,Unhappy
+Sales,Sales Executive,No,9738,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2835,Mid-Level,Happy
+Sales,Manager,No,16959,Mid-Level,Happy
+Research & Development,Research Scientist,No,2613,Mid-Level,Happy
+Sales,Sales Executive,No,6146,Mid-Level,Unhappy
+Research & Development,Research Scientist,Yes,4963,Senior,Unhappy
+Research & Development,Research Director,No,19537,Senior,Happy
+Sales,Sales Executive,Yes,6172,Mid-Level,Happy
+Research & Development,Research Scientist,No,2368,Young,Unhappy
+Research & Development,Healthcare Representative,Yes,10312,Senior,Happy
+Sales,Sales Representative,Yes,1675,Young,Happy
+Research & Development,Laboratory Technician,No,2523,Young,Happy
+Research & Development,Manufacturing Director,No,6567,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,4739,Mid-Level,Happy
+Sales,Sales Executive,No,9208,Mid-Level,Happy
+Sales,Sales Executive,Yes,4559,Mid-Level,Happy
+Sales,Sales Executive,No,8189,Mid-Level,Happy
+Human Resources,Human Resources,No,2942,Young,Happy
+Research & Development,Manufacturing Director,No,4941,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,Yes,10650,Senior,Happy
+Sales,Sales Executive,No,5902,Mid-Level,Happy
+Sales,Sales Executive,No,8639,Young,Happy
+Human Resources,Human Resources,No,6347,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,4200,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,3452,Mid-Level,Happy
+Research & Development,Research Scientist,No,4317,Mid-Level,Happy
+Research & Development,Research Scientist,No,2632,Mid-Level,Happy
+Sales,Sales Executive,No,4668,Mid-Level,Happy
+Research & Development,Research Scientist,No,3204,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2720,Mid-Level,Happy
+Research & Development,Manager,No,17181,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2238,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,1483,Young,Unhappy
+Research & Development,Research Scientist,No,5605,Mid-Level,Unhappy
+Sales,Sales Executive,No,7295,Mid-Level,Unhappy
+Sales,Sales Representative,No,2306,Senior,Happy
+Research & Development,Laboratory Technician,No,2348,Mid-Level,Unhappy
+Sales,Sales Executive,No,8998,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,4319,Young,Happy
+Research & Development,Manufacturing Director,No,6132,Senior,Happy
+Research & Development,Research Scientist,No,3346,Senior,Unhappy
+Sales,Sales Executive,No,10855,Mid-Level,Happy
+Sales,Sales Representative,No,2231,Mid-Level,Happy
+Research & Development,Research Scientist,No,2323,Young,Happy
+Research & Development,Research Scientist,No,2024,Young,Unhappy
+Research & Development,Research Scientist,No,2713,Young,Happy
+Research & Development,Healthcare Representative,No,9439,Senior,Happy
+Research & Development,Research Scientist,No,2566,Young,Happy
+Research & Development,Manager,No,19926,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2451,Mid-Level,Happy
+Sales,Sales Executive,No,9419,Mid-Level,Happy
+Sales,Sales Executive,No,8686,Mid-Level,Happy
+Research & Development,Research Scientist,No,3038,Mid-Level,Happy
+Research & Development,Research Scientist,No,3058,Young,Unhappy
+Sales,Sales Representative,Yes,2325,Young,Unhappy
+Research & Development,Laboratory Technician,No,2088,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,3072,Mid-Level,Unhappy
+Sales,Sales Executive,No,5006,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,4257,Senior,Unhappy
+Research & Development,Research Scientist,No,2500,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,1102,Young,Happy
+Sales,Sales Executive,No,10453,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2288,Mid-Level,Happy
+Research & Development,Research Scientist,No,3929,Mid-Level,Happy
+Research & Development,Research Scientist,No,2311,Mid-Level,Unhappy
+Sales,Sales Representative,Yes,3140,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,3690,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,4450,Senior,Unhappy
+Research & Development,Research Scientist,No,2756,Mid-Level,Unhappy
+Research & Development,Manager,No,19033,Mid-Level,Happy
+Research & Development,Research Director,No,18722,Senior,Unhappy
+Research & Development,Manufacturing Director,No,9547,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,13734,Senior,Unhappy
+Research & Development,Manager,No,19999,Senior,Happy
+Research & Development,Research Scientist,No,2279,Young,Unhappy
+Research & Development,Manufacturing Director,Yes,5916,Mid-Level,Happy
+Research & Development,Research Scientist,No,2089,Mid-Level,Happy
+Research & Development,Manager,No,16792,Mid-Level,Happy
+Research & Development,Research Scientist,No,3564,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,4425,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,5265,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,6553,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,6261,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,4298,Young,Unhappy
+Research & Development,Manufacturing Director,No,6804,Mid-Level,Happy
+Research & Development,Research Scientist,No,3815,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2741,Mid-Level,Happy
+Research & Development,Healthcare Representative,Yes,6673,Mid-Level,Unhappy
+Sales,Sales Executive,Yes,7639,Young,Happy
+Research & Development,Research Scientist,No,2328,Young,Unhappy
+Research & Development,Laboratory Technician,No,2153,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,4876,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,9396,Mid-Level,Unhappy
+Sales,Sales Executive,Yes,10400,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,8474,Mid-Level,Happy
+Sales,Sales Executive,No,9981,Young,Happy
+Research & Development,Research Director,No,12490,Senior,Unhappy
+Research & Development,Research Scientist,Yes,2657,Mid-Level,Unhappy
+Sales,Manager,No,13591,Mid-Level,Happy
+Sales,Sales Executive,Yes,6696,Mid-Level,Unhappy
+Research & Development,Research Scientist,Yes,2058,Young,Happy
+Sales,Sales Executive,No,8865,Mid-Level,Happy
+Sales,Sales Executive,No,5940,Senior,Unhappy
+Research & Development,Laboratory Technician,No,5914,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2622,Mid-Level,Unhappy
+Research & Development,Research Director,No,12185,Mid-Level,Happy
+Sales,Sales Executive,No,10609,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,4345,Mid-Level,Happy
+Research & Development,Research Scientist,No,2177,Senior,Happy
+Sales,Sales Representative,No,2793,Mid-Level,Happy
+Sales,Sales Executive,No,7918,Young,Happy
+Sales,Sales Executive,No,8789,Mid-Level,Happy
+Research & Development,Research Scientist,Yes,2389,Young,Happy
+Research & Development,Laboratory Technician,No,3212,Senior,Happy
+Research & Development,Manager,No,19232,Mid-Level,Happy
+Human Resources,Human Resources,No,2267,Senior,Happy
+Sales,Manager,No,19517,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,2436,Mid-Level,Happy
+Sales,Manager,No,16064,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,2707,Mid-Level,Unhappy
+Sales,Manager,No,19068,Senior,Happy
+Sales,Sales Representative,No,3931,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,Yes,3730,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2232,Mid-Level,Happy
+Sales,Sales Executive,No,4465,Mid-Level,Happy
+Research & Development,Research Scientist,No,3072,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,3319,Mid-Level,Happy
+Research & Development,Manager,No,19202,Mid-Level,Happy
+Research & Development,Research Director,No,13675,Mid-Level,Happy
+Research & Development,Research Scientist,No,2911,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,5957,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,3920,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,6434,Mid-Level,Happy
+Research & Development,Manufacturing Director,Yes,10048,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,10938,Mid-Level,Happy
+Research & Development,Research Scientist,No,2340,Young,Happy
+Research & Development,Research Scientist,No,6545,Mid-Level,Unhappy
+Sales,Sales Executive,No,6931,Young,Happy
+Research & Development,Manufacturing Director,No,4898,Young,Happy
+Research & Development,Laboratory Technician,No,2593,Mid-Level,Unhappy
+Research & Development,Research Director,No,19436,Mid-Level,Happy
+Research & Development,Research Scientist,No,2723,Senior,Happy
+Research & Development,Laboratory Technician,Yes,3479,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2794,Mid-Level,Unhappy
+Sales,Sales Executive,No,5249,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2176,Mid-Level,Unhappy
+Sales,Manager,No,16872,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,Yes,3485,Young,Happy
+Sales,Sales Executive,No,6644,Young,Unhappy
+Research & Development,Healthcare Representative,No,5582,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,4000,Young,Unhappy
+Research & Development,Healthcare Representative,No,13496,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3210,Mid-Level,Happy
+Research & Development,Manager,No,19045,Senior,Unhappy
+Research & Development,Manager,Yes,11849,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2070,Young,Happy
+Sales,Sales Executive,No,6502,Mid-Level,Happy
+Research & Development,Research Scientist,No,3230,Young,Happy
+Research & Development,Research Director,No,13603,Mid-Level,Happy
+Research & Development,Manager,No,11996,Mid-Level,Unhappy
+Sales,Sales Executive,No,5605,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,6397,Young,Unhappy
+Research & Development,Research Director,No,19144,Mid-Level,Unhappy
+Research & Development,Research Director,No,17584,Senior,Happy
+Sales,Sales Executive,No,4907,Mid-Level,Happy
+Sales,Sales Executive,No,4554,Young,Happy
+Research & Development,Laboratory Technician,No,5415,Senior,Happy
+Research & Development,Healthcare Representative,No,4741,Young,Unhappy
+Research & Development,Research Scientist,No,2115,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,3161,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,5745,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,2373,Young,Unhappy
+Research & Development,Research Scientist,No,3310,Young,Happy
+Research & Development,Research Director,No,18665,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,4485,Mid-Level,Unhappy
+Sales,Sales Representative,No,2789,Mid-Level,Unhappy
+Sales,Sales Executive,Yes,5828,Young,Happy
+Research & Development,Research Scientist,No,2326,Mid-Level,Happy
+Sales,Sales Executive,No,13525,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,Yes,1420,Young,Happy
+Sales,Sales Executive,No,8020,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,3688,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,5482,Senior,Unhappy
+Sales,Manager,No,16015,Mid-Level,Unhappy
+Sales,Sales Representative,No,1200,Young,Happy
+Research & Development,Healthcare Representative,No,5661,Young,Unhappy
+Sales,Sales Executive,No,6929,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,9613,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,5674,Mid-Level,Unhappy
+Sales,Sales Executive,No,5484,Mid-Level,Happy
+Research & Development,Research Director,No,12061,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,5660,Senior,Happy
+Research & Development,Research Scientist,No,4821,Mid-Level,Happy
+Human Resources,Human Resources,No,6410,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,5210,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2695,Mid-Level,Happy
+Research & Development,Manager,No,11878,Mid-Level,Unhappy
+Research & Development,Manager,No,17068,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2455,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,13964,Mid-Level,Happy
+Research & Development,Research Scientist,Yes,4941,Senior,Unhappy
+Research & Development,Research Scientist,No,2478,Young,Unhappy
+Sales,Sales Executive,No,5228,Mid-Level,Unhappy
+Sales,Sales Executive,No,4478,Young,Happy
+Sales,Sales Executive,No,7547,Mid-Level,Happy
+Research & Development,Research Scientist,No,5055,Mid-Level,Happy
+Research & Development,Research Scientist,Yes,3464,Young,Happy
+Research & Development,Research Scientist,No,5775,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,8943,Mid-Level,Happy
+Research & Development,Manager,No,19272,Mid-Level,Happy
+Sales,Sales Executive,Yes,5238,Mid-Level,Happy
+Sales,Sales Executive,No,4682,Mid-Level,Happy
+Research & Development,Research Director,No,18300,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,5257,Mid-Level,Happy
+Sales,Sales Executive,No,6349,Young,Unhappy
+Research & Development,Research Scientist,No,4869,Senior,Happy
+Research & Development,Healthcare Representative,No,9985,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,3697,Mid-Level,Happy
+Sales,Sales Executive,No,7457,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,2119,Young,Unhappy
+Research & Development,Laboratory Technician,No,3983,Young,Happy
+Sales,Sales Executive,No,6118,Mid-Level,Happy
+Sales,Sales Executive,No,6214,Young,Unhappy
+Research & Development,Manufacturing Director,No,6347,Mid-Level,Happy
+Research & Development,Research Director,No,11510,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,7143,Mid-Level,Happy
+Sales,Sales Executive,No,8268,Young,Unhappy
+Research & Development,Manufacturing Director,No,8095,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2904,Young,Happy
+Research & Development,Manufacturing Director,No,6032,Mid-Level,Unhappy
+Sales,Sales Representative,No,2976,Mid-Level,Happy
+Research & Development,Research Director,No,15992,Mid-Level,Happy
+Sales,Sales Executive,No,4649,Young,Happy
+Human Resources,Human Resources,No,2696,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2370,Mid-Level,Unhappy
+Sales,Manager,No,12504,Mid-Level,Happy
+Research & Development,Research Scientist,No,5974,Mid-Level,Unhappy
+Sales,Sales Executive,No,4736,Mid-Level,Happy
+Sales,Sales Executive,No,5296,Young,Happy
+Research & Development,Healthcare Representative,No,6781,Mid-Level,Happy
+Sales,Sales Representative,Yes,2174,Young,Unhappy
+Sales,Sales Executive,No,6653,Mid-Level,Happy
+Sales,Sales Executive,No,9699,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,6755,Senior,Happy
+Research & Development,Laboratory Technician,No,2213,Mid-Level,Happy
+Sales,Sales Representative,No,2610,Young,Happy
+Sales,Sales Representative,Yes,2851,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3452,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,5258,Mid-Level,Happy
+Sales,Sales Executive,Yes,9355,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,10496,Mid-Level,Happy
+Sales,Sales Executive,Yes,6380,Mid-Level,Happy
+Research & Development,Research Scientist,No,2657,Mid-Level,Unhappy
+Sales,Sales Representative,Yes,2716,Young,Unhappy
+Research & Development,Research Scientist,No,2201,Young,Happy
+Research & Development,Healthcare Representative,No,6540,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,3816,Young,Unhappy
+Sales,Sales Executive,No,5253,Young,Happy
+Research & Development,Healthcare Representative,No,10965,Mid-Level,Happy
+Sales,Sales Executive,No,4936,Senior,Happy
+Research & Development,Research Scientist,No,2543,Mid-Level,Happy
+Sales,Sales Executive,Yes,5304,Mid-Level,Happy
+Research & Development,Manager,No,16659,Senior,Happy
+Sales,Sales Executive,No,4260,Young,Happy
+Sales,Sales Representative,No,2476,Mid-Level,Unhappy
+Research & Development,Research Scientist,Yes,3102,Young,Unhappy
+Research & Development,Research Scientist,No,2244,Young,Unhappy
+Sales,Sales Executive,No,7596,Mid-Level,Happy
+Research & Development,Research Scientist,Yes,2285,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3034,Mid-Level,Unhappy
+Sales,Sales Executive,No,5715,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2576,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,4197,Mid-Level,Unhappy
+Research & Development,Research Director,No,14336,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,3448,Mid-Level,Happy
+Research & Development,Research Director,No,19406,Senior,Unhappy
+Sales,Sales Executive,No,6538,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,4306,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2258,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,4522,Mid-Level,Happy
+Sales,Sales Executive,No,4487,Young,Happy
+Research & Development,Research Scientist,No,4449,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2218,Mid-Level,Unhappy
+Research & Development,Manager,No,19197,Mid-Level,Happy
+Sales,Sales Executive,No,13212,Senior,Unhappy
+Sales,Sales Executive,No,6577,Mid-Level,Happy
+Sales,Sales Executive,No,8392,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,4558,Young,Unhappy
+Research & Development,Laboratory Technician,Yes,4031,Young,Unhappy
+Research & Development,Manufacturing Director,No,7969,Senior,Happy
+Research & Development,Research Scientist,No,2654,Mid-Level,Happy
+Research & Development,Manager,No,16555,Senior,Happy
+Research & Development,Research Scientist,No,4556,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,6091,Mid-Level,Happy
+Research & Development,Manager,No,19566,Senior,Unhappy
+Research & Development,Manufacturing Director,No,4810,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,4523,Mid-Level,Happy
+Sales,Sales Representative,Yes,3202,Young,Unhappy
+Sales,Sales Representative,Yes,2351,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,1702,Mid-Level,Happy
+Sales,Manager,No,18041,Mid-Level,Happy
+Research & Development,Research Scientist,No,2886,Young,Happy
+Research & Development,Laboratory Technician,No,2097,Mid-Level,Happy
+Research & Development,Research Director,No,11935,Young,Happy
+Research & Development,Research Scientist,Yes,2546,Young,Unhappy
+Human Resources,Human Resources,Yes,2564,Young,Happy
+Sales,Sales Executive,No,8412,Mid-Level,Unhappy
+Sales,Manager,No,14118,Senior,Happy
+Research & Development,Manager,No,17046,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2564,Mid-Level,Happy
+Sales,Sales Executive,No,10266,Senior,Unhappy
+Research & Development,Manufacturing Director,No,5070,Mid-Level,Happy
+Research & Development,Research Director,No,17861,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,4230,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3780,Senior,Happy
+Research & Development,Research Scientist,No,2768,Mid-Level,Happy
+Sales,Sales Executive,No,9071,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,10648,Mid-Level,Unhappy
+Research & Development,Manager,Yes,13610,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,3408,Mid-Level,Happy
+Sales,Sales Representative,No,2983,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,7632,Mid-Level,Happy
+Research & Development,Healthcare Representative,Yes,9824,Mid-Level,Happy
+Human Resources,Human Resources,Yes,9950,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2093,Mid-Level,Happy
+Sales,Sales Executive,No,9980,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,3894,Young,Happy
+Sales,Sales Executive,No,4051,Mid-Level,Happy
+Sales,Manager,No,16835,Senior,Unhappy
+Sales,Sales Executive,No,6230,Mid-Level,Happy
+Sales,Sales Executive,No,4717,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,13237,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3755,Mid-Level,Happy
+Sales,Sales Executive,No,6582,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,7406,Mid-Level,Unhappy
+Sales,Sales Executive,No,4805,Mid-Level,Unhappy
+Human Resources,Human Resources,Yes,2741,Young,Happy
+Research & Development,Manufacturing Director,No,4262,Young,Happy
+Research & Development,Research Director,No,16184,Mid-Level,Happy
+Sales,Manager,No,11557,Mid-Level,Happy
+Sales,Sales Representative,Yes,1878,Young,Unhappy
+Sales,Sales Executive,No,10932,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,6811,Mid-Level,Happy
+Sales,Sales Executive,No,4306,Young,Happy
+Sales,Sales Executive,No,4859,Mid-Level,Happy
+Sales,Sales Executive,No,5337,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,2340,Young,Happy
+Research & Development,Manufacturing Director,No,7491,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,10527,Mid-Level,Happy
+Sales,Manager,No,16595,Mid-Level,Unhappy
+Sales,Sales Executive,No,8834,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,5577,Senior,Unhappy
+Sales,Sales Executive,Yes,4707,Mid-Level,Happy
+Sales,Sales Representative,No,2400,Young,Happy
+Research & Development,Healthcare Representative,No,9824,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,6447,Mid-Level,Unhappy
+Research & Development,Research Director,No,19502,Mid-Level,Happy
+Research & Development,Research Scientist,No,2725,Young,Happy
+Sales,Sales Executive,No,6272,Young,Unhappy
+Research & Development,Laboratory Technician,No,2127,Young,Unhappy
+Human Resources,Manager,No,18200,Mid-Level,Unhappy
+Sales,Sales Representative,No,2096,Young,Happy
+Research & Development,Laboratory Technician,Yes,2886,Young,Happy
+Sales,Sales Representative,Yes,2033,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,3622,Mid-Level,Happy
+Sales,Sales Executive,Yes,4233,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,3681,Mid-Level,Happy
+Sales,Sales Executive,No,5460,Mid-Level,Happy
+Research & Development,Research Scientist,No,2187,Young,Happy
+Sales,Sales Executive,No,9602,Mid-Level,Happy
+Research & Development,Research Scientist,No,2836,Young,Unhappy
+Research & Development,Healthcare Representative,No,4089,Mid-Level,Happy
+Research & Development,Research Director,No,16627,Mid-Level,Happy
+Research & Development,Research Scientist,No,2619,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,5679,Mid-Level,Happy
+Research & Development,Manager,No,15402,Mid-Level,Unhappy
+Human Resources,Human Resources,No,5985,Mid-Level,Happy
+Sales,Sales Representative,No,2579,Mid-Level,Happy
+Sales,Sales Representative,Yes,3041,Young,Unhappy
+Sales,Sales Representative,No,3447,Young,Happy
+Research & Development,Manager,No,19513,Mid-Level,Happy
+Research & Development,Research Scientist,No,2773,Young,Happy
+Sales,Sales Executive,No,7104,Mid-Level,Happy
+Research & Development,Research Scientist,No,6322,Mid-Level,Happy
+Research & Development,Research Scientist,No,2083,Mid-Level,Happy
+Sales,Sales Executive,No,8381,Senior,Unhappy
+Research & Development,Research Scientist,No,2691,Mid-Level,Happy
+Sales,Sales Executive,Yes,4286,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2659,Young,Happy
+Research & Development,Manufacturing Director,No,9434,Mid-Level,Happy
+Sales,Sales Executive,No,5561,Young,Happy
+Research & Development,Research Scientist,No,6646,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,7725,Mid-Level,Happy
+Human Resources,Human Resources,No,10725,Senior,Unhappy
+Research & Development,Manufacturing Director,No,8847,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2045,Young,Happy
+Research & Development,Research Scientist,Yes,1009,Young,Happy
+Research & Development,Research Scientist,Yes,3348,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,1281,Mid-Level,Happy
+Research & Development,Research Scientist,No,2819,Young,Unhappy
+Sales,Sales Executive,No,4851,Young,Unhappy
+Sales,Sales Executive,No,4028,Mid-Level,Happy
+Research & Development,Research Scientist,No,2720,Young,Happy
+Sales,Sales Executive,No,8120,Mid-Level,Unhappy
+Sales,Sales Executive,No,4647,Young,Happy
+Research & Development,Research Scientist,No,4680,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3221,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,8621,Mid-Level,Unhappy
+Sales,Sales Executive,Yes,4577,Young,Happy
+Research & Development,Healthcare Representative,No,4553,Mid-Level,Happy
+Sales,Sales Executive,No,5396,Mid-Level,Happy
+Sales,Sales Executive,Yes,6796,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,7625,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,7412,Young,Unhappy
+Research & Development,Research Director,No,11159,Mid-Level,Happy
+Sales,Sales Executive,No,4960,Mid-Level,Unhappy
+Sales,Sales Executive,No,10475,Mid-Level,Unhappy
+Research & Development,Research Director,No,14814,Senior,Happy
+Human Resources,Manager,No,19141,Mid-Level,Happy
+Sales,Sales Executive,No,5405,Senior,Unhappy
+Research & Development,Manufacturing Director,No,8793,Young,Unhappy
+Human Resources,Manager,No,19189,Mid-Level,Happy
+Sales,Sales Representative,No,3875,Mid-Level,Unhappy
+Research & Development,Research Scientist,Yes,2216,Young,Unhappy
+Research & Development,Research Director,No,11713,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,7861,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3708,Mid-Level,Happy
+Sales,Sales Executive,No,13770,Mid-Level,Happy
+Sales,Sales Executive,No,5304,Mid-Level,Happy
+Sales,Sales Representative,No,2642,Young,Happy
+Research & Development,Research Scientist,Yes,2759,Mid-Level,Happy
+Sales,Sales Executive,No,6804,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,6142,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2500,Young,Unhappy
+Human Resources,Human Resources,No,6389,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,11103,Senior,Happy
+Research & Development,Research Scientist,No,2342,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,6811,Young,Unhappy
+Sales,Sales Representative,No,2297,Young,Unhappy
+Research & Development,Laboratory Technician,No,2450,Senior,Happy
+Research & Development,Healthcare Representative,No,5093,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,5309,Mid-Level,Happy
+Research & Development,Research Scientist,No,3057,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,5121,Mid-Level,Unhappy
+Sales,Manager,No,16856,Senior,Unhappy
+Research & Development,Research Scientist,Yes,2686,Mid-Level,Happy
+Sales,Sales Executive,No,6180,Young,Happy
+Sales,Sales Representative,No,6632,Mid-Level,Happy
+Research & Development,Research Scientist,No,3505,Young,Happy
+Sales,Sales Executive,Yes,6397,Mid-Level,Happy
+Sales,Sales Executive,No,6274,Mid-Level,Happy
+Research & Development,Manager,Yes,19859,Senior,Unhappy
+Sales,Sales Executive,No,7587,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,4258,Senior,Happy
+Research & Development,Laboratory Technician,No,4364,Young,Happy
+Research & Development,Healthcare Representative,No,4335,Young,Happy
+Sales,Sales Executive,Yes,5326,Young,Unhappy
+Research & Development,Research Scientist,No,3280,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,5485,Senior,Unhappy
+Sales,Sales Executive,No,4342,Young,Happy
+Research & Development,Research Scientist,No,2782,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,5980,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,4381,Mid-Level,Unhappy
+Sales,Sales Representative,No,2572,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3833,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,4244,Mid-Level,Unhappy
+Sales,Sales Executive,No,6500,Mid-Level,Unhappy
+Research & Development,Manager,No,18430,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,1601,Young,Unhappy
+Research & Development,Laboratory Technician,No,2694,Young,Unhappy
+Research & Development,Laboratory Technician,No,3149,Senior,Happy
+Research & Development,Research Director,No,17639,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,2319,Young,Unhappy
+Research & Development,Research Director,No,11691,Mid-Level,Happy
+Sales,Sales Executive,Yes,5324,Mid-Level,Unhappy
+Research & Development,Manager,No,16752,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,5228,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2700,Young,Happy
+Research & Development,Research Director,Yes,19246,Senior,Unhappy
+Research & Development,Research Scientist,No,2506,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,6062,Mid-Level,Happy
+Research & Development,Research Scientist,Yes,4382,Young,Happy
+Human Resources,Human Resources,No,2143,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,6162,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,5094,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,6877,Mid-Level,Happy
+Research & Development,Research Scientist,No,2274,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,4434,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,6288,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2553,Mid-Level,Happy
+Sales,Sales Executive,Yes,7654,Mid-Level,Happy
+Sales,Sales Executive,Yes,5160,Senior,Happy
+Research & Development,Research Director,No,17159,Mid-Level,Unhappy
+Research & Development,Research Director,No,12808,Young,Happy
+Research & Development,Manufacturing Director,No,10221,Mid-Level,Happy
+Sales,Sales Executive,No,4779,Young,Unhappy
+Human Resources,Human Resources,No,3737,Mid-Level,Happy
+Research & Development,Research Scientist,Yes,2366,Young,Happy
+Research & Development,Research Scientist,No,1706,Young,Happy
+Sales,Manager,No,16307,Senior,Happy
+Research & Development,Healthcare Representative,No,5933,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,3424,Young,Unhappy
+Sales,Sales Executive,No,4037,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2559,Mid-Level,Unhappy
+Sales,Sales Executive,No,6201,Mid-Level,Happy
+Sales,Sales Executive,No,4403,Mid-Level,Happy
+Research & Development,Research Scientist,No,3761,Mid-Level,Happy
+Sales,Sales Executive,No,10934,Senior,Happy
+Sales,Sales Executive,No,10761,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,5175,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,13826,Senior,Happy
+Sales,Sales Executive,No,6334,Mid-Level,Happy
+Human Resources,Human Resources,No,4936,Young,Happy
+Research & Development,Manufacturing Director,No,4775,Young,Happy
+Research & Development,Laboratory Technician,No,2818,Mid-Level,Happy
+Research & Development,Research Scientist,No,2515,Mid-Level,Happy
+Human Resources,Human Resources,No,2342,Mid-Level,Unhappy
+Sales,Sales Executive,No,4194,Young,Unhappy
+Research & Development,Manufacturing Director,No,10685,Mid-Level,Happy
+Research & Development,Research Scientist,Yes,2022,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2314,Mid-Level,Happy
+Sales,Sales Executive,No,4256,Young,Unhappy
+Research & Development,Research Scientist,No,3580,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,3162,Young,Happy
+Sales,Sales Executive,No,6524,Mid-Level,Unhappy
+Sales,Sales Representative,No,2899,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,5231,Mid-Level,Happy
+Research & Development,Research Scientist,No,2356,Mid-Level,Happy
+Sales,Sales Representative,Yes,2800,Young,Happy
+Sales,Sales Executive,No,11836,Senior,Happy
+Research & Development,Manufacturing Director,No,10903,Mid-Level,Unhappy
+Sales,Sales Representative,No,2973,Mid-Level,Happy
+Research & Development,Research Director,No,14275,Senior,Happy
+Research & Development,Healthcare Representative,No,5562,Mid-Level,Happy
+Sales,Sales Executive,No,4537,Mid-Level,Happy
+Sales,Sales Executive,No,7642,Mid-Level,Unhappy
+Research & Development,Manager,No,17924,Mid-Level,Unhappy
+Human Resources,Human Resources,No,5204,Mid-Level,Happy
+Human Resources,Human Resources,No,2277,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,Yes,2795,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2532,Young,Happy
+Research & Development,Research Scientist,No,2559,Mid-Level,Unhappy
+Sales,Sales Executive,No,4908,Young,Happy
+Research & Development,Laboratory Technician,Yes,2380,Senior,Happy
+Research & Development,Manufacturing Director,No,4765,Mid-Level,Unhappy
+Sales,Sales Representative,Yes,2044,Young,Happy
+Research & Development,Research Scientist,Yes,2693,Young,Happy
+Research & Development,Healthcare Representative,No,6586,Mid-Level,Happy
+Sales,Sales Representative,No,3294,Mid-Level,Happy
+Research & Development,Manufacturing Director,Yes,4171,Young,Happy
+Research & Development,Laboratory Technician,Yes,2778,Mid-Level,Happy
+Research & Development,Research Scientist,No,2377,Young,Happy
+Research & Development,Laboratory Technician,Yes,2404,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2318,Young,Happy
+Research & Development,Laboratory Technician,No,2008,Mid-Level,Unhappy
+Sales,Sales Executive,No,6244,Mid-Level,Happy
+Research & Development,Research Scientist,No,2799,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,10552,Senior,Unhappy
+Sales,Sales Representative,No,2329,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,4014,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,7403,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2259,Mid-Level,Happy
+Sales,Sales Executive,No,6932,Mid-Level,Happy
+Research & Development,Research Scientist,No,4678,Mid-Level,Happy
+Research & Development,Research Director,No,13582,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2332,Mid-Level,Unhappy
+Sales,Sales Representative,Yes,2413,Young,Unhappy
+Sales,Sales Executive,No,9705,Mid-Level,Unhappy
+Sales,Sales Executive,No,4294,Young,Unhappy
+Research & Development,Laboratory Technician,No,4721,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2519,Mid-Level,Happy
+Sales,Sales Representative,Yes,2121,Young,Unhappy
+Research & Development,Laboratory Technician,Yes,2973,Young,Unhappy
+Research & Development,Healthcare Representative,No,5855,Mid-Level,Happy
+Research & Development,Research Scientist,No,3617,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,6725,Mid-Level,Unhappy
+Sales,Sales Executive,Yes,10325,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,6949,Mid-Level,Happy
+Sales,Sales Executive,Yes,10609,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,4447,Mid-Level,Unhappy
+Sales,Sales Representative,No,2157,Young,Happy
+Sales,Sales Executive,No,4601,Mid-Level,Happy
+Research & Development,Manager,No,17099,Senior,Happy
+Research & Development,Research Scientist,Yes,2479,Senior,Happy
+Sales,Manager,No,14852,Senior,Happy
+Sales,Sales Executive,No,7264,Mid-Level,Happy
+Sales,Sales Executive,No,5666,Mid-Level,Happy
+Sales,Sales Executive,No,7823,Mid-Level,Happy
+Sales,Sales Executive,No,7880,Mid-Level,Happy
+Sales,Sales Executive,Yes,13194,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,5067,Mid-Level,Happy
+Sales,Sales Executive,No,5079,Mid-Level,Happy
+Research & Development,Research Scientist,Yes,2321,Mid-Level,Unhappy
+Sales,Manager,No,17444,Mid-Level,Happy
+Research & Development,Research Scientist,Yes,2404,Young,Unhappy
+Research & Development,Research Scientist,No,3452,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2270,Mid-Level,Happy
+Research & Development,Research Director,No,17399,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,5488,Mid-Level,Unhappy
+Research & Development,Research Director,No,19419,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2811,Young,Unhappy
+Research & Development,Laboratory Technician,No,3633,Mid-Level,Unhappy
+Sales,Sales Executive,No,4163,Mid-Level,Happy
+Research & Development,Research Scientist,Yes,2132,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,13973,Mid-Level,Happy
+Research & Development,Research Scientist,No,2684,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,10845,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,4377,Young,Happy
+Research & Development,Laboratory Technician,Yes,3743,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,4148,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,1051,Young,Happy
+Research & Development,Manufacturing Director,No,10739,Senior,Happy
+Research & Development,Healthcare Representative,No,10388,Mid-Level,Happy
+Research & Development,Research Director,No,11416,Mid-Level,Unhappy
+Research & Development,Research Scientist,Yes,2600,Young,Unhappy
+Research & Development,Laboratory Technician,Yes,2422,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,5472,Young,Happy
+Research & Development,Laboratory Technician,No,2451,Young,Unhappy
+Research & Development,Healthcare Representative,No,4240,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,10999,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,5003,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,12742,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,4227,Young,Happy
+Research & Development,Laboratory Technician,No,3917,Mid-Level,Happy
+Sales,Manager,No,18303,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2380,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,13726,Senior,Happy
+Research & Development,Healthcare Representative,Yes,4777,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,6385,Senior,Unhappy
+Research & Development,Research Director,No,19973,Mid-Level,Happy
+Sales,Sales Executive,No,6861,Mid-Level,Happy
+Sales,Sales Executive,Yes,4969,Young,Unhappy
+Sales,Manager,Yes,19845,Senior,Happy
+Sales,Sales Executive,No,13320,Mid-Level,Happy
+Sales,Sales Executive,No,6347,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,2743,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,10880,Mid-Level,Unhappy
+Sales,Sales Representative,No,2342,Mid-Level,Happy
+Sales,Manager,No,17650,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,4025,Mid-Level,Happy
+Sales,Sales Executive,No,9725,Mid-Level,Happy
+Sales,Manager,No,11904,Senior,Happy
+Human Resources,Human Resources,No,2177,Mid-Level,Unhappy
+Sales,Sales Executive,No,7525,Senior,Unhappy
+Research & Development,Laboratory Technician,Yes,4834,Mid-Level,Happy
+Research & Development,Research Scientist,Yes,2042,Young,Unhappy
+Sales,Sales Representative,No,2220,Mid-Level,Happy
+Sales,Sales Representative,No,1052,Young,Unhappy
+Research & Development,Research Scientist,No,2821,Mid-Level,Happy
+Research & Development,Research Director,No,19237,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,4107,Mid-Level,Unhappy
+Sales,Sales Executive,No,8396,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2007,Young,Happy
+Research & Development,Research Director,No,19627,Mid-Level,Happy
+Sales,Sales Executive,No,10686,Senior,Happy
+Research & Development,Research Scientist,No,2942,Senior,Happy
+Research & Development,Manufacturing Director,No,8858,Mid-Level,Happy
+Research & Development,Manager,No,16756,Senior,Unhappy
+Sales,Sales Executive,No,10798,Mid-Level,Happy
+Sales,Sales Representative,Yes,2323,Young,Happy
+Research & Development,Laboratory Technician,Yes,1416,Young,Unhappy
+Research & Development,Research Scientist,No,4615,Mid-Level,Unhappy
+Research & Development,Research Scientist,Yes,2461,Senior,Happy
+Research & Development,Healthcare Representative,Yes,8722,Young,Unhappy
+Research & Development,Laboratory Technician,No,3955,Young,Unhappy
+Research & Development,Manufacturing Director,No,9957,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,3376,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,8823,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,10322,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,4621,Young,Happy
+Research & Development,Manufacturing Director,No,10976,Senior,Unhappy
+Research & Development,Research Scientist,No,3660,Young,Happy
+Human Resources,Human Resources,Yes,10482,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,7119,Mid-Level,Happy
+Sales,Sales Executive,Yes,9582,Mid-Level,Unhappy
+Research & Development,Research Scientist,Yes,4508,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2207,Young,Happy
+Research & Development,Healthcare Representative,No,7756,Mid-Level,Happy
+Sales,Sales Executive,No,6694,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,3691,Young,Happy
+Research & Development,Laboratory Technician,Yes,2377,Young,Happy
+Research & Development,Research Scientist,Yes,2313,Mid-Level,Unhappy
+Research & Development,Manager,No,17665,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,Yes,2596,Young,Unhappy
+Sales,Sales Executive,Yes,4728,Mid-Level,Happy
+Sales,Sales Executive,No,4302,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2979,Mid-Level,Happy
+Research & Development,Manager,No,16885,Mid-Level,Happy
+Sales,Sales Executive,No,5593,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,10445,Senior,Unhappy
+Sales,Sales Executive,No,8740,Mid-Level,Happy
+Research & Development,Research Scientist,No,2514,Young,Happy
+Research & Development,Manufacturing Director,No,7655,Young,Unhappy
+Sales,Manager,No,17465,Mid-Level,Happy
+Sales,Sales Executive,No,7351,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,10820,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,Yes,12169,Mid-Level,Happy
+Research & Development,Research Director,No,19626,Mid-Level,Happy
+Research & Development,Research Scientist,No,2070,Young,Unhappy
+Research & Development,Laboratory Technician,No,6782,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,7779,Mid-Level,Happy
+Sales,Sales Representative,No,2791,Mid-Level,Happy
+Research & Development,Research Scientist,No,3201,Young,Unhappy
+Sales,Sales Executive,No,4968,Mid-Level,Happy
+Sales,Sales Executive,No,13120,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,4033,Mid-Level,Happy
+Research & Development,Research Scientist,No,3291,Young,Unhappy
+Research & Development,Laboratory Technician,No,4272,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,5056,Young,Happy
+Human Resources,Human Resources,No,2844,Mid-Level,Happy
+Research & Development,Research Scientist,No,2703,Young,Happy
+Research & Development,Laboratory Technician,Yes,1904,Young,Happy
+Sales,Sales Executive,Yes,8224,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,4766,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,2610,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,5731,Mid-Level,Happy
+Research & Development,Research Scientist,No,2539,Young,Happy
+Sales,Sales Executive,No,5714,Mid-Level,Happy
+Human Resources,Human Resources,No,4323,Mid-Level,Happy
+Sales,Sales Executive,Yes,7336,Young,Unhappy
+Research & Development,Research Director,No,13499,Mid-Level,Happy
+Sales,Sales Executive,Yes,13758,Mid-Level,Unhappy
+Sales,Sales Executive,No,5155,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2258,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3597,Young,Unhappy
+Research & Development,Laboratory Technician,Yes,2515,Young,Happy
+Research & Development,Laboratory Technician,No,4420,Young,Happy
+Sales,Sales Executive,No,6578,Mid-Level,Happy
+Research & Development,Research Scientist,No,4422,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,10274,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,5343,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2376,Mid-Level,Happy
+Sales,Sales Executive,Yes,5346,Mid-Level,Happy
+Sales,Sales Representative,No,2827,Mid-Level,Unhappy
+Research & Development,Manager,No,19943,Senior,Unhappy
+Research & Development,Laboratory Technician,No,3131,Young,Happy
+Research & Development,Research Scientist,No,2552,Young,Unhappy
+Research & Development,Research Scientist,No,4477,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,6474,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3033,Young,Happy
+Research & Development,Research Scientist,Yes,2936,Mid-Level,Happy
+Research & Development,Manager,No,18606,Senior,Happy
+Research & Development,Research Scientist,No,2168,Young,Happy
+Research & Development,Research Scientist,Yes,2853,Young,Happy
+Sales,Manager,No,17048,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2290,Mid-Level,Happy
+Human Resources,Human Resources,No,3600,Mid-Level,Happy
+Research & Development,Research Scientist,Yes,2107,Mid-Level,Unhappy
+Sales,Sales Executive,No,4115,Mid-Level,Unhappy
+Sales,Sales Executive,No,4327,Mid-Level,Unhappy
+Research & Development,Manager,No,17856,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,3196,Young,Unhappy
+Research & Development,Research Director,No,19081,Mid-Level,Unhappy
+Sales,Sales Executive,No,8966,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,Yes,2210,Young,Unhappy
+Sales,Sales Executive,No,4539,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2741,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3491,Mid-Level,Happy
+Research & Development,Research Scientist,No,4541,Mid-Level,Happy
+Sales,Sales Representative,No,2678,Young,Happy
+Research & Development,Manufacturing Director,No,7379,Mid-Level,Happy
+Human Resources,Human Resources,No,6272,Mid-Level,Unhappy
+Sales,Sales Executive,No,5220,Senior,Happy
+Research & Development,Laboratory Technician,No,2743,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,4998,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,10252,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2781,Mid-Level,Happy
+Sales,Sales Executive,No,6852,Mid-Level,Unhappy
+Sales,Sales Executive,No,4950,Young,Happy
+Research & Development,Research Scientist,No,3579,Mid-Level,Unhappy
+Research & Development,Research Director,No,13191,Mid-Level,Unhappy
+Sales,Sales Executive,No,10377,Mid-Level,Happy
+Research & Development,Research Scientist,No,2235,Young,Unhappy
+Research & Development,Manufacturing Director,No,10502,Senior,Happy
+Research & Development,Research Scientist,No,2011,Mid-Level,Happy
+Research & Development,Research Scientist,Yes,1859,Young,Unhappy
+Research & Development,Research Scientist,No,3760,Young,Happy
+Research & Development,Research Director,No,17779,Senior,Happy
+Research & Development,Healthcare Representative,No,6833,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,6812,Mid-Level,Unhappy
+Sales,Sales Executive,No,5171,Senior,Happy
+Research & Development,Research Director,No,19740,Mid-Level,Happy
+Research & Development,Manager,No,18711,Mid-Level,Happy
+Research & Development,Research Scientist,No,3692,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2559,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2517,Young,Happy
+Research & Development,Healthcare Representative,No,6623,Young,Happy
+Research & Development,Research Director,No,18265,Mid-Level,Happy
+Research & Development,Research Director,No,16124,Young,Happy
+Research & Development,Research Scientist,No,2585,Mid-Level,Happy
+Sales,Manager,No,18213,Mid-Level,Unhappy
+Sales,Sales Executive,No,8380,Mid-Level,Happy
+Research & Development,Research Scientist,No,2994,Young,Happy
+Research & Development,Research Scientist,No,1223,Young,Happy
+Sales,Sales Representative,Yes,1118,Young,Happy
+Research & Development,Research Scientist,No,2875,Young,Happy
+Sales,Manager,Yes,18824,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,13577,Senior,Unhappy
+Research & Development,Laboratory Technician,Yes,2625,Young,Happy
+Sales,Manager,No,18789,Mid-Level,Unhappy
+Sales,Sales Executive,No,4538,Mid-Level,Unhappy
+Sales,Manager,No,19847,Senior,Unhappy
+Research & Development,Manufacturing Director,No,10512,Senior,Happy
+Research & Development,Laboratory Technician,No,4444,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2154,Young,Happy
+Research & Development,Manager,No,19190,Mid-Level,Unhappy
+Human Resources,Human Resources,No,4490,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,3506,Mid-Level,Happy
+Research & Development,Research Scientist,No,2372,Mid-Level,Unhappy
+Sales,Sales Executive,No,10231,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,5410,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,Yes,7978,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3867,Young,Happy
+Research & Development,Laboratory Technician,No,2838,Senior,Happy
+Research & Development,Manufacturing Director,No,4695,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,3339,Young,Happy
+Research & Development,Research Scientist,No,2080,Young,Unhappy
+Research & Development,Research Scientist,No,2096,Young,Unhappy
+Sales,Sales Executive,No,6209,Mid-Level,Happy
+Research & Development,Manager,No,18061,Mid-Level,Unhappy
+Research & Development,Manager,No,17123,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2372,Senior,Happy
+Research & Development,Laboratory Technician,Yes,4883,Mid-Level,Happy
+Research & Development,Research Scientist,Yes,3904,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,4627,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,7094,Mid-Level,Happy
+Human Resources,Human Resources,No,3423,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,6674,Young,Happy
+Research & Development,Research Director,No,16880,Mid-Level,Unhappy
+Sales,Sales Executive,Yes,9094,Mid-Level,Unhappy
+Sales,Sales Executive,Yes,8446,Senior,Unhappy
+Research & Development,Manager,No,11916,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,4534,Mid-Level,Happy
+Sales,Sales Executive,No,9852,Mid-Level,Happy
+Sales,Sales Executive,No,6151,Mid-Level,Unhappy
+Sales,Sales Representative,Yes,2302,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,Yes,2362,Mid-Level,Unhappy
+Research & Development,Manager,No,17861,Mid-Level,Happy
+Research & Development,Manager,No,19187,Senior,Happy
+Human Resources,Manager,No,19717,Senior,Unhappy
+Research & Development,Research Scientist,No,3544,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,8500,Mid-Level,Happy
+Research & Development,Research Scientist,No,4661,Mid-Level,Happy
+Sales,Sales Executive,No,4103,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,4249,Mid-Level,Happy
+Human Resources,Manager,No,14026,Senior,Unhappy
+Sales,Sales Executive,No,6893,Mid-Level,Unhappy
+Sales,Sales Executive,No,6125,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,3669,Young,Happy
+Research & Development,Manufacturing Director,Yes,10008,Senior,Unhappy
+Research & Development,Laboratory Technician,No,2387,Mid-Level,Unhappy
+Sales,Sales Executive,No,4639,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,7898,Mid-Level,Happy
+Sales,Sales Representative,No,2534,Young,Happy
+Research & Development,Manufacturing Director,No,13142,Senior,Unhappy
+Research & Development,Laboratory Technician,No,1611,Young,Happy
+Research & Development,Laboratory Technician,No,5363,Mid-Level,Happy
+Sales,Sales Executive,No,5071,Young,Happy
+Sales,Sales Executive,Yes,13695,Senior,Happy
+Research & Development,Manufacturing Director,No,13402,Senior,Unhappy
+Research & Development,Research Scientist,No,2029,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,6377,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,5429,Mid-Level,Happy
+Sales,Sales Representative,Yes,2785,Mid-Level,Happy
+Sales,Sales Executive,Yes,4614,Mid-Level,Happy
+Research & Development,Research Scientist,No,2610,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,6687,Mid-Level,Happy
+Sales,Sales Executive,No,4724,Young,Unhappy
+Research & Development,Manufacturing Director,Yes,6179,Mid-Level,Happy
+Sales,Sales Executive,No,6120,Mid-Level,Happy
+Sales,Sales Executive,No,10596,Senior,Unhappy
+Research & Development,Research Scientist,No,5467,Mid-Level,Happy
+Research & Development,Research Scientist,No,2996,Mid-Level,Happy
+Sales,Sales Executive,No,9998,Mid-Level,Happy
+Sales,Sales Executive,No,4078,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,10920,Mid-Level,Happy
+Sales,Sales Executive,No,6232,Young,Happy
+Research & Development,Manufacturing Director,No,13247,Senior,Happy
+Research & Development,Research Scientist,No,4081,Mid-Level,Happy
+Sales,Sales Executive,No,5769,Young,Happy
+Research & Development,Research Scientist,Yes,2394,Young,Happy
+Research & Development,Research Scientist,No,3904,Young,Happy
+Human Resources,Manager,No,16799,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2950,Senior,Unhappy
+Research & Development,Laboratory Technician,No,3629,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,9362,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3229,Young,Happy
+Research & Development,Laboratory Technician,No,3578,Young,Unhappy
+Human Resources,Human Resources,No,7988,Young,Unhappy
+Research & Development,Laboratory Technician,Yes,4284,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,Yes,7553,Young,Happy
+Research & Development,Research Director,No,17328,Senior,Happy
+Research & Development,Research Director,No,19701,Senior,Unhappy
+Research & Development,Research Director,No,14732,Senior,Happy
+Sales,Sales Executive,No,9278,Mid-Level,Unhappy
+Sales,Sales Representative,Yes,1359,Mid-Level,Happy
+Sales,Sales Executive,No,4779,Mid-Level,Unhappy
+Research & Development,Research Director,No,16422,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2996,Mid-Level,Unhappy
+Research & Development,Research Scientist,Yes,1261,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2099,Young,Unhappy
+Research & Development,Laboratory Technician,No,5810,Mid-Level,Happy
+Sales,Sales Executive,No,5647,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,3420,Mid-Level,Happy
+Sales,Sales Representative,Yes,4400,Young,Unhappy
+Research & Development,Laboratory Technician,No,3500,Mid-Level,Happy
+Research & Development,Research Scientist,No,2066,Senior,Unhappy
+Research & Development,Research Director,No,17169,Mid-Level,Happy
+Sales,Sales Executive,No,4162,Young,Happy
+Sales,Sales Executive,No,9204,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3294,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2127,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3975,Mid-Level,Happy
+Sales,Sales Executive,No,10793,Mid-Level,Happy
+Sales,Sales Executive,Yes,10096,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,3646,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,Yes,7446,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,10851,Mid-Level,Unhappy
+Human Resources,Human Resources,No,2109,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,Yes,3722,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,9380,Mid-Level,Happy
+Sales,Sales Executive,No,5486,Mid-Level,Unhappy
+Human Resources,Human Resources,Yes,2742,Mid-Level,Happy
+Research & Development,Research Director,No,13757,Mid-Level,Unhappy
+Sales,Sales Executive,No,8463,Young,Unhappy
+Research & Development,Laboratory Technician,No,3162,Mid-Level,Happy
+Research & Development,Research Director,No,16598,Senior,Unhappy
+Research & Development,Healthcare Representative,No,6651,Mid-Level,Happy
+Research & Development,Research Scientist,No,2345,Mid-Level,Happy
+Research & Development,Research Scientist,No,3420,Mid-Level,Unhappy
+Sales,Sales Executive,No,4373,Mid-Level,Unhappy
+Sales,Sales Executive,No,4759,Mid-Level,Unhappy
+Sales,Sales Executive,No,5301,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3673,Mid-Level,Happy
+Sales,Sales Executive,No,4768,Mid-Level,Happy
+Research & Development,Research Scientist,No,1274,Mid-Level,Happy
+Research & Development,Research Scientist,No,4900,Senior,Happy
+Research & Development,Healthcare Representative,No,10466,Mid-Level,Unhappy
+Research & Development,Research Director,No,17007,Mid-Level,Unhappy
+Sales,Sales Representative,Yes,2909,Young,Happy
+Sales,Sales Executive,Yes,5765,Young,Unhappy
+Sales,Sales Executive,Yes,4599,Mid-Level,Unhappy
+Sales,Sales Representative,No,2404,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,3172,Young,Unhappy
+Sales,Sales Representative,No,2033,Young,Unhappy
+Research & Development,Manufacturing Director,No,10209,Mid-Level,Happy
+Sales,Sales Executive,No,8620,Young,Happy
+Human Resources,Human Resources,No,2064,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,4035,Senior,Happy
+Research & Development,Laboratory Technician,No,3838,Mid-Level,Unhappy
+Sales,Sales Executive,No,4591,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,2561,Young,Unhappy
+Research & Development,Research Scientist,No,1563,Young,Happy
+Sales,Sales Executive,No,4898,Young,Unhappy
+Research & Development,Laboratory Technician,No,4789,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,3180,Young,Unhappy
+Research & Development,Manufacturing Director,No,6549,Young,Unhappy
+Research & Development,Healthcare Representative,No,6388,Mid-Level,Happy
+Research & Development,Manager,No,11244,Mid-Level,Happy
+Research & Development,Manager,No,16032,Senior,Happy
+Research & Development,Research Scientist,Yes,2362,Young,Unhappy
+Research & Development,Research Director,No,16328,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,8376,Mid-Level,Unhappy
+Sales,Manager,No,16606,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,8606,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2272,Young,Happy
+Research & Development,Laboratory Technician,Yes,2018,Mid-Level,Unhappy
+Sales,Sales Executive,No,7083,Mid-Level,Happy
+Research & Development,Research Scientist,Yes,4084,Mid-Level,Happy
+Research & Development,Research Director,No,14411,Mid-Level,Happy
+Sales,Sales Representative,No,2308,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,4841,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,4285,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,9715,Young,Unhappy
+Research & Development,Manufacturing Director,No,4320,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2132,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,10124,Mid-Level,Happy
+Sales,Sales Executive,No,5473,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,5207,Mid-Level,Happy
+Human Resources,Manager,No,16437,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2296,Young,Unhappy
+Research & Development,Healthcare Representative,No,4069,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,7441,Mid-Level,Unhappy
+Sales,Sales Representative,No,2430,Mid-Level,Happy
+Research & Development,Research Scientist,No,5878,Mid-Level,Unhappy
+Sales,Sales Representative,No,2644,Mid-Level,Happy
+Sales,Sales Executive,No,6439,Mid-Level,Happy
+Research & Development,Research Scientist,No,2451,Young,Happy
+Sales,Sales Executive,No,6392,Mid-Level,Unhappy
+Sales,Sales Executive,Yes,9714,Mid-Level,Unhappy
+Human Resources,Human Resources,No,6077,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2450,Mid-Level,Unhappy
+Sales,Sales Executive,No,9250,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,Yes,2074,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,Yes,10169,Senior,Happy
+Research & Development,Manufacturing Director,Yes,4855,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,4087,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2367,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2972,Mid-Level,Happy
+Sales,Manager,No,19586,Senior,Happy
+Research & Development,Research Scientist,No,5484,Mid-Level,Happy
+Research & Development,Research Scientist,No,2061,Young,Happy
+Sales,Sales Executive,No,9924,Mid-Level,Unhappy
+Sales,Sales Executive,No,4198,Mid-Level,Unhappy
+Sales,Sales Executive,No,6815,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,4723,Young,Unhappy
+Research & Development,Healthcare Representative,No,6142,Mid-Level,Happy
+Sales,Sales Executive,No,8237,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,8853,Young,Happy
+Sales,Manager,No,19331,Mid-Level,Happy
+Research & Development,Research Scientist,No,2073,Young,Happy
+Research & Development,Laboratory Technician,No,5562,Mid-Level,Unhappy
+Research & Development,Manager,No,19613,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3407,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,5063,Mid-Level,Happy
+Sales,Sales Executive,No,4639,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,4876,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2690,Mid-Level,Happy
+Sales,Manager,No,17567,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,Yes,2408,Young,Unhappy
+Research & Development,Research Scientist,No,2814,Young,Happy
+Research & Development,Healthcare Representative,No,11245,Mid-Level,Happy
+Research & Development,Research Scientist,No,3312,Mid-Level,Happy
+Research & Development,Research Director,No,19049,Mid-Level,Happy
+Research & Development,Research Scientist,No,2141,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,5769,Mid-Level,Unhappy
+Sales,Sales Executive,No,4385,Mid-Level,Unhappy
+Sales,Sales Executive,No,5332,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,4663,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,4724,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3211,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,5377,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,4066,Young,Unhappy
+Research & Development,Research Scientist,No,5208,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,4877,Young,Unhappy
+Research & Development,Research Scientist,No,3117,Young,Happy
+Sales,Sales Representative,Yes,1569,Young,Happy
+Human Resources,Manager,No,19658,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3069,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,10435,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,4148,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,5768,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,5042,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,5770,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,7756,Mid-Level,Happy
+Sales,Sales Executive,Yes,10306,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,3936,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,7945,Mid-Level,Happy
+Human Resources,Human Resources,No,5743,Mid-Level,Happy
+Research & Development,Manager,No,15202,Mid-Level,Happy
+Sales,Sales Executive,Yes,5440,Mid-Level,Happy
+Research & Development,Research Scientist,No,3760,Young,Happy
+Research & Development,Research Scientist,No,3517,Young,Happy
+Research & Development,Research Scientist,No,2580,Young,Happy
+Research & Development,Laboratory Technician,Yes,2166,Mid-Level,Unhappy
+Sales,Sales Executive,No,5869,Young,Happy
+Research & Development,Healthcare Representative,No,8008,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,5206,Young,Happy
+Research & Development,Manufacturing Director,No,5295,Mid-Level,Unhappy
+Research & Development,Research Director,No,16413,Mid-Level,Unhappy
+Research & Development,Research Director,No,13269,Mid-Level,Unhappy
+Sales,Sales Representative,No,2783,Young,Happy
+Research & Development,Research Scientist,No,5433,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2013,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,13966,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,4374,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,6842,Mid-Level,Unhappy
+Research & Development,Manager,No,17426,Senior,Happy
+Research & Development,Research Director,No,17603,Mid-Level,Happy
+Sales,Sales Executive,Yes,4581,Mid-Level,Happy
+Research & Development,Research Scientist,No,4735,Mid-Level,Happy
+Sales,Sales Executive,No,4187,Young,Unhappy
+Sales,Sales Executive,No,5505,Mid-Level,Happy
+Research & Development,Research Scientist,No,5470,Mid-Level,Unhappy
+Sales,Sales Executive,No,5476,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2587,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2440,Mid-Level,Unhappy
+Sales,Manager,No,15972,Mid-Level,Unhappy
+Research & Development,Manager,No,15379,Mid-Level,Happy
+Sales,Sales Executive,No,7082,Mid-Level,Happy
+Sales,Sales Representative,No,2728,Young,Unhappy
+Sales,Sales Executive,No,5368,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,5347,Mid-Level,Happy
+Human Resources,Human Resources,No,3195,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,3989,Young,Happy
+Research & Development,Laboratory Technician,No,3306,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,7005,Senior,Happy
+Sales,Sales Representative,Yes,2655,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,1393,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2570,Young,Happy
+Research & Development,Research Scientist,No,3537,Senior,Unhappy
+Research & Development,Laboratory Technician,No,3986,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,10883,Senior,Happy
+Research & Development,Laboratory Technician,No,2028,Mid-Level,Unhappy
+Sales,Sales Executive,No,9525,Mid-Level,Happy
+Research & Development,Research Scientist,No,2929,Mid-Level,Happy
+Sales,Sales Representative,Yes,2275,Young,Happy
+Research & Development,Healthcare Representative,No,7879,Mid-Level,Happy
+Research & Development,Research Scientist,No,4930,Mid-Level,Happy
+Sales,Sales Executive,No,7847,Mid-Level,Happy
+Research & Development,Research Scientist,No,4401,Young,Happy
+Sales,Sales Executive,No,9241,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2974,Young,Happy
+Sales,Sales Representative,No,4502,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,10748,Mid-Level,Happy
+Human Resources,Human Resources,Yes,1555,Young,Happy
+Sales,Sales Executive,Yes,12936,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2305,Young,Happy
+Research & Development,Research Director,No,16704,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,3433,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3477,Mid-Level,Happy
+Human Resources,Human Resources,No,6430,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,6516,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,3907,Young,Unhappy
+Research & Development,Healthcare Representative,No,5562,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,6883,Mid-Level,Happy
+Research & Development,Research Scientist,No,2862,Mid-Level,Happy
+Sales,Sales Executive,No,4978,Mid-Level,Unhappy
+Sales,Sales Executive,No,10368,Mid-Level,Happy
+Sales,Sales Executive,Yes,6134,Mid-Level,Unhappy
+Sales,Sales Executive,Yes,6735,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,3295,Young,Unhappy
+Research & Development,Manufacturing Director,No,5238,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,6472,Mid-Level,Happy
+Sales,Sales Executive,No,9610,Mid-Level,Happy
+Sales,Manager,No,19833,Mid-Level,Unhappy
+Human Resources,Human Resources,No,9756,Mid-Level,Happy
+Research & Development,Research Scientist,No,4968,Mid-Level,Unhappy
+Human Resources,Human Resources,No,2145,Young,Happy
+Human Resources,Human Resources,Yes,2180,Mid-Level,Happy
+Sales,Sales Executive,No,8346,Mid-Level,Happy
+Research & Development,Research Scientist,No,3445,Young,Happy
+Sales,Sales Representative,Yes,2760,Young,Unhappy
+Research & Development,Healthcare Representative,No,6294,Young,Happy
+Sales,Sales Executive,No,7140,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2932,Mid-Level,Happy
+Sales,Sales Executive,No,5147,Mid-Level,Unhappy
+Sales,Sales Executive,No,4507,Mid-Level,Happy
+Sales,Sales Executive,Yes,8564,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2468,Mid-Level,Unhappy
+Sales,Sales Executive,Yes,8161,Mid-Level,Happy
+Research & Development,Research Scientist,No,2109,Young,Unhappy
+Research & Development,Healthcare Representative,No,5294,Mid-Level,Happy
+Research & Development,Research Scientist,No,2718,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,5811,Mid-Level,Happy
+Research & Development,Research Scientist,Yes,2437,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2766,Mid-Level,Unhappy
+Research & Development,Research Director,No,19038,Senior,Unhappy
+Research & Development,Research Scientist,No,3055,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2289,Mid-Level,Unhappy
+Sales,Sales Executive,No,4001,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,12965,Senior,Happy
+Human Resources,Human Resources,No,3539,Mid-Level,Happy
+Sales,Sales Executive,No,6029,Mid-Level,Happy
+Sales,Sales Representative,Yes,2679,Young,Unhappy
+Research & Development,Laboratory Technician,No,3702,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,2398,Young,Unhappy
+Sales,Sales Executive,No,5468,Mid-Level,Happy
+Research & Development,Manager,No,13116,Senior,Happy
+Sales,Sales Executive,No,4189,Mid-Level,Unhappy
+Research & Development,Research Director,No,19328,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,8321,Mid-Level,Unhappy
+Research & Development,Research Scientist,Yes,2342,Mid-Level,Unhappy
+Human Resources,Human Resources,No,4071,Mid-Level,Unhappy
+Sales,Sales Executive,Yes,5813,Mid-Level,Happy
+Research & Development,Research Scientist,No,3143,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2044,Young,Happy
+Research & Development,Research Director,No,13464,Mid-Level,Happy
+Sales,Sales Executive,No,7991,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,3377,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,5538,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,5762,Mid-Level,Happy
+Human Resources,Human Resources,No,2592,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,Yes,5346,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,Yes,4213,Mid-Level,Unhappy
+Sales,Sales Executive,No,4127,Mid-Level,Happy
+Research & Development,Research Scientist,No,2438,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,6870,Mid-Level,Unhappy
+Sales,Sales Executive,No,10447,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,9667,Mid-Level,Happy
+Human Resources,Human Resources,Yes,2148,Young,Unhappy
+Research & Development,Healthcare Representative,Yes,8926,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,6513,Mid-Level,Happy
+Sales,Sales Executive,No,6799,Mid-Level,Happy
+Sales,Manager,No,16291,Senior,Unhappy
+Research & Development,Laboratory Technician,No,2705,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,10333,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,4448,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,6854,Senior,Happy
+Sales,Sales Executive,No,9637,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,3591,Young,Unhappy
+Sales,Sales Representative,No,5405,Mid-Level,Happy
+Sales,Sales Executive,No,4684,Young,Happy
+Research & Development,Research Director,No,15787,Senior,Happy
+Research & Development,Research Scientist,No,1514,Young,Happy
+Human Resources,Human Resources,Yes,2956,Mid-Level,Unhappy
+Human Resources,Human Resources,Yes,2335,Young,Unhappy
+Sales,Sales Executive,No,5154,Mid-Level,Happy
+Research & Development,Research Scientist,No,6962,Mid-Level,Unhappy
+Sales,Sales Executive,No,5675,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2379,Young,Happy
+Research & Development,Laboratory Technician,No,3812,Young,Happy
+Sales,Sales Executive,No,4648,Mid-Level,Happy
+Research & Development,Research Scientist,No,2936,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2105,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,8578,Mid-Level,Happy
+Human Resources,Human Resources,No,2706,Young,Happy
+Research & Development,Healthcare Representative,No,6384,Young,Happy
+Research & Development,Laboratory Technician,No,3968,Mid-Level,Happy
+Sales,Sales Executive,Yes,9907,Mid-Level,Unhappy
+Sales,Sales Executive,No,13225,Mid-Level,Unhappy
+Sales,Sales Representative,No,3540,Young,Happy
+Human Resources,Human Resources,No,2804,Young,Unhappy
+Research & Development,Manager,No,19392,Mid-Level,Happy
+Research & Development,Research Director,No,19665,Mid-Level,Unhappy
+Research & Development,Research Scientist,Yes,2439,Young,Happy
+Sales,Sales Executive,Yes,7314,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,4774,Young,Unhappy
+Research & Development,Research Scientist,No,3902,Mid-Level,Happy
+Research & Development,Research Scientist,No,2662,Senior,Happy
+Sales,Sales Representative,No,2856,Young,Unhappy
+Sales,Sales Representative,Yes,1081,Mid-Level,Happy
+Research & Development,Research Scientist,Yes,2472,Young,Unhappy
+Sales,Sales Executive,No,5673,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,4197,Mid-Level,Happy
+Sales,Sales Executive,No,9713,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2062,Young,Unhappy
+Research & Development,Research Scientist,No,4284,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,4788,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,5906,Mid-Level,Happy
+Human Resources,Human Resources,No,3886,Mid-Level,Happy
+Research & Development,Manager,No,16823,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2933,Young,Happy
+Sales,Sales Executive,No,6500,Young,Happy
+Research & Development,Manager,No,17174,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,5033,Mid-Level,Unhappy
+Research & Development,Research Scientist,Yes,2307,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,Yes,2587,Senior,Happy
+Sales,Sales Executive,No,5507,Mid-Level,Unhappy
+Sales,Sales Executive,No,4393,Mid-Level,Unhappy
+Research & Development,Research Director,No,13348,Mid-Level,Unhappy
+Sales,Sales Executive,No,6583,Mid-Level,Happy
+Sales,Sales Executive,No,8103,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,3978,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2544,Young,Happy
+Research & Development,Healthcare Representative,No,5399,Mid-Level,Happy
+Sales,Sales Executive,No,5487,Mid-Level,Happy
+Sales,Sales Executive,No,6834,Young,Happy
+Sales,Sales Representative,Yes,1091,Young,Unhappy
+Sales,Sales Executive,No,5736,Mid-Level,Happy
+Research & Development,Research Scientist,No,2226,Young,Unhappy
+Research & Development,Research Scientist,No,5747,Mid-Level,Happy
+Sales,Sales Executive,Yes,9854,Young,Happy
+Research & Development,Research Scientist,No,5467,Mid-Level,Unhappy
+Sales,Sales Executive,No,5380,Senior,Unhappy
+Research & Development,Manufacturing Director,No,5151,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2133,Mid-Level,Unhappy
+Sales,Manager,No,17875,Senior,Happy
+Research & Development,Research Scientist,Yes,2432,Mid-Level,Happy
+Research & Development,Research Scientist,No,4771,Mid-Level,Happy
+Research & Development,Research Director,No,19161,Mid-Level,Happy
+Sales,Sales Executive,No,5087,Mid-Level,Happy
+Human Resources,Human Resources,Yes,2863,Young,Unhappy
+Sales,Sales Executive,No,5561,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2144,Young,Happy
+Research & Development,Research Scientist,No,3065,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2810,Mid-Level,Unhappy
+Sales,Sales Executive,No,9888,Mid-Level,Happy
+Sales,Sales Executive,No,8628,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2867,Young,Unhappy
+Research & Development,Healthcare Representative,No,5373,Young,Unhappy
+Research & Development,Healthcare Representative,No,6667,Mid-Level,Happy
+Research & Development,Research Scientist,No,5003,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,Yes,2367,Young,Happy
+Sales,Sales Representative,No,2858,Mid-Level,Unhappy
+Sales,Sales Executive,No,5204,Mid-Level,Happy
+Sales,Sales Executive,No,4105,Young,Happy
+Research & Development,Manufacturing Director,No,9679,Mid-Level,Happy
+Sales,Sales Executive,Yes,5617,Mid-Level,Happy
+Sales,Sales Executive,Yes,10448,Senior,Unhappy
+Research & Development,Research Scientist,No,2897,Senior,Happy
+Research & Development,Healthcare Representative,No,5968,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,7510,Mid-Level,Happy
+Human Resources,Human Resources,No,2991,Mid-Level,Unhappy
+Human Resources,Manager,No,19636,Senior,Unhappy
+Research & Development,Laboratory Technician,No,1129,Mid-Level,Happy
+Sales,Sales Executive,No,13341,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,4332,Mid-Level,Happy
+Research & Development,Research Director,No,11031,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,4440,Senior,Unhappy
+Research & Development,Healthcare Representative,No,4617,Young,Happy
+Research & Development,Laboratory Technician,No,2647,Young,Happy
+Research & Development,Laboratory Technician,No,6323,Mid-Level,Happy
+Sales,Sales Executive,No,5677,Mid-Level,Unhappy
+Human Resources,Human Resources,No,2187,Young,Unhappy
+Research & Development,Laboratory Technician,No,3748,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,3977,Young,Happy
+Research & Development,Healthcare Representative,No,8633,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2008,Mid-Level,Happy
+Sales,Sales Executive,No,4440,Mid-Level,Unhappy
+Sales,Sales Representative,No,3067,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,5321,Mid-Level,Happy
+Research & Development,Research Scientist,No,5410,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2782,Mid-Level,Happy
+Research & Development,Research Director,No,11957,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2660,Mid-Level,Happy
+Research & Development,Research Scientist,No,3375,Young,Happy
+Research & Development,Research Scientist,No,5098,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,4878,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,2837,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,2406,Mid-Level,Happy
+Sales,Sales Representative,No,2269,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,4108,Mid-Level,Happy
+Research & Development,Research Director,No,13206,Mid-Level,Happy
+Sales,Sales Executive,No,10422,Mid-Level,Happy
+Research & Development,Research Director,No,13744,Mid-Level,Happy
+Sales,Sales Executive,No,4907,Young,Happy
+Sales,Sales Representative,No,3482,Senior,Happy
+Research & Development,Research Scientist,No,2436,Mid-Level,Happy
+Sales,Sales Representative,No,2380,Young,Unhappy
+Research & Development,Manager,No,19431,Mid-Level,Happy
+Sales,Sales Representative,Yes,1790,Young,Unhappy
+Sales,Sales Executive,No,7644,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,5131,Mid-Level,Unhappy
+Research & Development,Healthcare Representative,No,6306,Senior,Happy
+Research & Development,Research Scientist,Yes,4787,Young,Happy
+Research & Development,Manager,No,18880,Mid-Level,Happy
+Research & Development,Laboratory Technician,Yes,2339,Senior,Happy
+Research & Development,Manufacturing Director,No,13570,Mid-Level,Unhappy
+Sales,Sales Executive,No,6712,Mid-Level,Happy
+Sales,Sales Executive,No,5406,Mid-Level,Happy
+Sales,Sales Executive,No,8938,Mid-Level,Unhappy
+Research & Development,Research Scientist,No,2439,Mid-Level,Unhappy
+Human Resources,Human Resources,No,8837,Mid-Level,Happy
+Sales,Sales Executive,No,5343,Mid-Level,Happy
+Sales,Sales Executive,Yes,6728,Mid-Level,Happy
+Sales,Sales Executive,No,6652,Mid-Level,Happy
+Sales,Sales Executive,No,4850,Mid-Level,Happy
+Research & Development,Research Scientist,No,2809,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,5689,Mid-Level,Happy
+Research & Development,Research Scientist,No,2001,Mid-Level,Happy
+Research & Development,Research Scientist,No,2977,Mid-Level,Happy
+Research & Development,Laboratory Technician,No,4025,Young,Unhappy
+Research & Development,Research Scientist,No,3785,Young,Unhappy
+Sales,Sales Executive,Yes,10854,Mid-Level,Unhappy
+Sales,Sales Executive,No,12031,Mid-Level,Happy
+Research & Development,Manufacturing Director,No,9936,Mid-Level,Unhappy
+Sales,Sales Representative,No,2966,Young,Happy
+Research & Development,Laboratory Technician,No,2571,Mid-Level,Happy
+Research & Development,Healthcare Representative,No,9991,Mid-Level,Unhappy
+Research & Development,Manufacturing Director,No,6142,Young,Unhappy
+Sales,Sales Executive,No,5390,Mid-Level,Unhappy
+Research & Development,Laboratory Technician,No,4404,Mid-Level,Happy
