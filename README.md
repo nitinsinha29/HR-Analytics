@@ -21,12 +21,13 @@ The dashboard helps HR managers understand **who** is leaving, **why** they are 
 ---
 
 ## 📂 Repository Structure
-* `images/`: Contains screenshots of the dashboard.
+* `Dashboard.jpg`: Contains screenshots of the dashboard.
 * `data_cleaning.py`: Python script for initial data cleaning.
 * `database_logic.sql`: SQL code for Views and Business Logic.
 * `HR_Retention_Dashboard.pbix`: The Power BI Source File.
 * `HR_Database.db`: SQLite Database file.
 * `dashboard_data.csv`: Final processed data used in the dashboard.
+* `template.jpg`: Description of your template.
 
 ---
 
